@@ -51,3 +51,4 @@ Follow its development setup and then continue here.
 1. 🎉 Partytime!
 1. 💻 Fix easily linting issues with `npm run lint:fix`.
 1. Новый текст
+1. Новый текст
